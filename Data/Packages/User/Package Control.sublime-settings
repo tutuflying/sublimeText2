@@ -1,0 +1,16 @@
+{
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"CSSLint",
+		"Goto-CSS-Declaration",
+		"HTML-CSS-JS Prettify",
+		"HTMLAttributes",
+		"jQuery",
+		"JsFormat",
+		"JSLint",
+		"Nodejs",
+		"Package Control",
+		"Pretty JSON"
+	]
+}

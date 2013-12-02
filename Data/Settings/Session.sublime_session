@@ -1,0 +1,805 @@
+{
+	"folder_history":
+	[
+		"/E/github/nodejs-test"
+	],
+	"last_window_id": 2,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"in",
+						"input	Tag"
+					],
+					[
+						"div",
+						"DIV	Tag"
+					],
+					[
+						"bo",
+						"border-radius"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"re",
+						"ready	jQuery(document).ready"
+					]
+				]
+			},
+			"build_system": "Packages/JSLint/JSLint.sublime-build",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"auto",
+						"Autoprefix CSS"
+					],
+					[
+						"pref",
+						"Autoprefix CSS"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"bra",
+						"BracketHighlighter: Swap Brackets"
+					],
+					[
+						"setht",
+						"Set Syntax: HTML"
+					],
+					[
+						"setcss",
+						"Set Syntax: CSS"
+					],
+					[
+						"setjs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"pre",
+						"HTMLPrettify"
+					],
+					[
+						"prett",
+						"HTMLPrettify"
+					],
+					[
+						"pretty",
+						"HTMLPrettify"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"set ht",
+						"Set Syntax: HTML"
+					]
+				],
+				"width": 512.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/zhaoyijun/Desktop/test.css",
+				"/C/Users/zhaoyijun/Desktop/test.js",
+				"/C/Users/zhaoyijun/Desktop/test.html",
+				"/F/Sublime Text 2.0.2/Data/Packages/JSLint/JSLint.sublime-settings",
+				"/F/Sublime Text 2.0.2/Data/Packages/JSLint/JSLint.sublime-build",
+				"/F/Sublime Text 2.0.2/Data/Packages/Goto-CSS-Declaration/Default (Windows).sublime-keymap",
+				"/F/Sublime Text 2.0.2/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/F/Sublime Text 2.0.2/Data/Packages/Goto-CSS-Declaration/goto_css_declaration.sublime-settings",
+				"/F/Sublime Text 2.0.2/Data/Packages/User/Autoprefixer.sublime-settings",
+				"/F/Sublime Text 2.0.2/Data/Packages/Autoprefixer/Autoprefixer.sublime-settings",
+				"/F/Sublime Text 2.0.2/Data/Packages/Prefixr/Default (Windows).sublime-keymap",
+				"/F/Sublime Text 2.0.2/Data/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+				"/F/Sublime Text 2.0.2/Data/Packages/BracketHighlighter/bh_core.sublime-settings",
+				"/F/Sublime Text 2.0.2/Data/Packages/Default/Preferences.sublime-settings",
+				"/F/Sublime Text 2.0.2/Data/Packages/User/Preferences.sublime-settings",
+				"/F/Sublime Text 2.0.2/Data/Packages/User/SublimeLinter.sublime-settings"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"color"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 100.0
+			},
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"in",
+						"input	Tag"
+					],
+					[
+						"div",
+						"DIV	Tag"
+					],
+					[
+						"bo",
+						"border-radius"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"re",
+						"ready	jQuery(document).ready"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/E/github/nodejs-test/index.js",
+					"settings":
+					{
+						"buffer_size": 297,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/github/nodejs-test/server.js",
+					"settings":
+					{
+						"buffer_size": 430,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/github/nodejs-test/router.js",
+					"settings":
+					{
+						"buffer_size": 172,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/github/nodejs-test/requestHandlers.js",
+					"settings":
+					{
+						"buffer_size": 139,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "Packages/JSLint/JSLint.sublime-build",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"auto",
+						"Autoprefix CSS"
+					],
+					[
+						"pref",
+						"Autoprefix CSS"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"bra",
+						"BracketHighlighter: Swap Brackets"
+					],
+					[
+						"setht",
+						"Set Syntax: HTML"
+					],
+					[
+						"setcss",
+						"Set Syntax: CSS"
+					],
+					[
+						"setjs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"pre",
+						"HTMLPrettify"
+					],
+					[
+						"prett",
+						"HTMLPrettify"
+					],
+					[
+						"pretty",
+						"HTMLPrettify"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"set ht",
+						"Set Syntax: HTML"
+					]
+				],
+				"width": 405.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/zhaoyijun/Desktop/test.css",
+				"/C/Users/zhaoyijun/Desktop/test.js",
+				"/C/Users/zhaoyijun/Desktop/test.html",
+				"/F/Sublime Text 2.0.2/Data/Packages/JSLint/JSLint.sublime-settings",
+				"/F/Sublime Text 2.0.2/Data/Packages/JSLint/JSLint.sublime-build",
+				"/F/Sublime Text 2.0.2/Data/Packages/Goto-CSS-Declaration/Default (Windows).sublime-keymap",
+				"/F/Sublime Text 2.0.2/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/F/Sublime Text 2.0.2/Data/Packages/Goto-CSS-Declaration/goto_css_declaration.sublime-settings",
+				"/F/Sublime Text 2.0.2/Data/Packages/User/Autoprefixer.sublime-settings",
+				"/F/Sublime Text 2.0.2/Data/Packages/Autoprefixer/Autoprefixer.sublime-settings",
+				"/F/Sublime Text 2.0.2/Data/Packages/Prefixr/Default (Windows).sublime-keymap",
+				"/F/Sublime Text 2.0.2/Data/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+				"/F/Sublime Text 2.0.2/Data/Packages/BracketHighlighter/bh_core.sublime-settings",
+				"/F/Sublime Text 2.0.2/Data/Packages/Default/Preferences.sublime-settings",
+				"/F/Sublime Text 2.0.2/Data/Packages/User/Preferences.sublime-settings",
+				"/F/Sublime Text 2.0.2/Data/Packages/User/SublimeLinter.sublime-settings"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"Handler",
+					"handler",
+					"start",
+					"color"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/E/github/nodejs-test"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/E/github/nodejs-test/index.js",
+							"settings":
+							{
+								"buffer_size": 297,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										295,
+										295
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/E/github/nodejs-test/server.js",
+							"settings":
+							{
+								"buffer_size": 430,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										83,
+										83
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/E/github/nodejs-test/router.js",
+							"settings":
+							{
+								"buffer_size": 172,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										113,
+										113
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_name": "",
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/E/github/nodejs-test/requestHandlers.js",
+							"settings":
+							{
+								"buffer_size": 139,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										139,
+										139
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_name": "",
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 144.0
+			},
+			"position": "0,2,1,-32000,-32000,-1,-1,638,100,118,756",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"window_id": 2,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
